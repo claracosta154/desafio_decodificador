@@ -1,7 +1,9 @@
 <h1> Alura Challenge | Oracle One | Decodificador de texto </h1>
 <h2>Sobre o Projeto</h2>
 <p>Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura:</p>
-GitHub Pages![Captura de Tela (208)](https://github.com/user-attachments/assets/333eef71-2a57-4f4c-8d5c-b4a52a469604)
+<div align= center> 
+<img src=https://github.com/user-attachments/assets/333eef71-2a57-4f4c-8d5c-b4a52a469604>
+</div>
 Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
 <h2> Chave de Criptografia </h2>
