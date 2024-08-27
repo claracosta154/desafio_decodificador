@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Decodificador de texto</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="img/logo_alura.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <main class="main container">
+      <header class="cabecalho">
+        <img src="img/logo_alura.svg" alt="logo alura" />
+        <h1>Decodificador de texto</h1>
+      </header>
+
+      <div class="container-input">
+        <div class="input">
+          <textarea
+            id="input-texto"
+            placeholder="Digite seu texto..."
+          ></textarea>
+          <p>importante! apenas letras maiusculas e sem acento</p>
+        </div>
+
+        <div id="outinput">
+          <img src="img/img2.svg" alt="" />
+          <h2>Sua mensagem descriptografada aparecerá aqui!</h2>
+          <span>Digite o texto que quer criptografar ou descriptografar</span>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <div class="container-btn">
+          <button onclick="criptografar()" class="btn-cripto">Criptografar</button>
+          <button onclick="descriptografar()" class="btn-descripto">Descriptografar</button>
+        </div>
+      </div>
+    </main>
+
+    <footer class="rodape">
+      <div class="icons">
+        <a href=""><ion-icon name="logo-github"></ion-icon></a>
+      </div>
+      <p>
+        Feito por <a href="https://github.com/claracosta154">Clara Costa</a>
+      </p>
+    </footer>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="script.js"></script>
+  </body>
+</html>
