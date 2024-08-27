@@ -24,3 +24,5 @@ Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 <h2>Extra</h2>
 Um botão que copia o texto criptografado/descriptografado para a área de transferência, ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
+<h2>Badge pela Conclusão do Desafio</h2>
+<img src=https://github.com/user-attachments/assets/649efc64-0147-454a-897a-b405b980062f>
